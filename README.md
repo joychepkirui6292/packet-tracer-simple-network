@@ -38,7 +38,7 @@ This project is based on the Cisco Networking Academy lab: *Create a Simple Netw
 
 ## Files in this Repository
 
--   `Creating a Simple Network.html` -- original Cisco lab instructions.[Consultation Form (1).pdf](https://github.com/user-attachments/files/22583959/Consultation.Form.1.pdf)
+-   `Creating a Simple Network.html` -- original Cisco lab instructions.
 
 -   `a Simple Network.pkt` -- Packet Tracer project file.
 -   `README.md` -- documentation (this file).
